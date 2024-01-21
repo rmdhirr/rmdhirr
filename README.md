@@ -18,13 +18,9 @@ Welcome to my GitHub profile! I'm a Mechatronics and AI undergraduate student wi
 [![MATLAB](https://img.shields.io/badge/-MATLAB-%23FF6600?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) 
 [![SQL](https://img.shields.io/badge/-SQL-%23003B57?style=flat-square&logo=sql&logoColor=white)](https://www.sql.com/) 
 
-| ![Operating Systems](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%28ParrotOS%29-%230078D7?style=flat-square) | ![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20Docker%20%7C%20Jupyter%20%7C%20Anaconda%20%7C%20VSCode%20%7C%20AutoCAD%20%7C%20Proteus%20%7C%20Arduino IDE%20%7C%20XAMPP-%23F05032?style=flat-square) | ![Frameworks](https://img.shields.io/badge/Frameworks-PyTorch%20%7C%20TensorFlow%20%7C%20scikit--learn%20%7C%20Keras-%23FF6F00?style=flat-square) |
-|---|---|---|
-
-🌟 Mini Bio:
-- Name: Ramadhirra
-- Nickname: Arid
-- Interests: AI, NLP, Mechatronics, LLM Quantization
+![Operating Systems](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%28ParrotOS%29-%230078D7?style=flat-square&labelFontSize=large)
+![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20Docker%20%7C%20Jupyter%20%7C%20Anaconda%20%7C%20VSCode%20%7C%20AutoCAD%20%7C%20Proteus%20%7C%20Arduino%20IDE%20%7C%20XAMPP-%23F05032?style=flat-square&labelFontSize=large)
+![Frameworks](https://img.shields.io/badge/Frameworks-PyTorch%20%7C%20TensorFlow%20%7C%20scikit--learn%20%7C%20Keras%20%7C%20Flask%20%7C%20Streamlit-%23FF6F00?style=flat-square&labelFontSize=large)
 
 🔭 Currently diving deep into the world of AI and exploring the potential of NLP.
 
