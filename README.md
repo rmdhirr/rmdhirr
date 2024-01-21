@@ -1,9 +1,6 @@
 # Hi there, I'm Ramadhirra! 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-%2300B89D?style=flat-square&logo=hugging%20face&logoColor=white&link=https://huggingface.co/aridoverrun)](https://huggingface.co/aridoverrun)
-
-Welcome to my GitHub profile! I'm a Mechatronics and AI undergraduate student with a passion for AI, Cybersecurity, and NLP. Let's connect and collaborate!
+Welcome to my GitHub profile! I'm a Mechatronics and AI undergraduate student with a passion for AI, Cybersecurity, IoT and NLP. Let's connect and collaborate!
 
 💼 Proficient in the following technologies:
 
@@ -26,7 +23,13 @@ Welcome to my GitHub profile! I'm a Mechatronics and AI undergraduate student wi
 
 🔬 Currently focusing on fine-tuning LLM (Large Language Models) and exploring LLM quantization techniques.
 
-📫 Get in touch: ramadhirraazzahraputri@upi.edu
-
 ---
+
+# Let's get in touch! 🤝
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ramadhirraazzahraputri)](https://medium.com/@ramadhirraazzahraputri)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ramadhirraazzahraputri@upi.edu)](mailto:ramadhirraazzahraputri@upi.edu)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-%2300B89D?style=flat-square&logo=hugging%20face&logoColor=white&link=https://huggingface.co/aridoverrun)](https://huggingface.co/aridoverrun)
+
 
