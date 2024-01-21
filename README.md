@@ -20,8 +20,6 @@ Welcome to my GitHub profile! I'm a Mechatronics and AI undergraduate student wi
 [![MATLAB](https://img.shields.io/badge/-MATLAB-%23FF6600?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) 
 [![SQL](https://img.shields.io/badge/-SQL-%23003B57?style=flat-square&logo=sql&logoColor=white)](https://www.sql.com/) 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aridofflimits&hide=stars&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=20)
-
 💡 Interested in AI, NLP, Mechatronics, and LLM Quantization.
 
 🔬 Currently focusing on fine-tuning LLM (Large Language Models) and exploring LLM quantization techniques.
