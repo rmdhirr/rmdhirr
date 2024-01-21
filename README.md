@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a Mechatronics and AI undergraduate student wi
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
 📊 GitHub Analytics:
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=aridofflimits)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aridofflimits&show_icons=true&theme=dark)
 
 💡 Interested in AI, NLP, Mechatronics, and LLM Quantization.
 
