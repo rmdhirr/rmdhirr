@@ -1,4 +1,4 @@
-# Hi there, welcome to my GitHub profile! 👋
+# Hi there, I'm Ramadhirra! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-%2300B89D?style=flat-square&logo=hugging%20face&logoColor=white&link=https://huggingface.co/aridoverrun)](https://huggingface.co/aridoverrun)
