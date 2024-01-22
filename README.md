@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Mechatronics and AI undergraduate student wi
 [![MATLAB](https://img.shields.io/badge/-MATLAB-%23FF6600?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) 
 [![SQL](https://img.shields.io/badge/-SQL-%23003B57?style=flat-square&logo=sql&logoColor=white)](https://www.sql.com/) 
 
-![Operating Systems](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%28ParrotOS%29-%230078D7?style=flat-square&labelFontSize=large)
+![Operating Systems](https://img.shields.io/badge/OS-Windows%20%7C%20Linux-%230078D7?style=flat-square&labelFontSize=large)
 ![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20Docker%20%7C%20Jupyter%20%7C%20Anaconda%20%7C%20VSCode%20%7C%20AutoCAD%20%7C%20Proteus%20%7C%20Arduino%20IDE%20%7C%20XAMPP-%23F05032?style=flat-square&labelFontSize=large)
 ![Frameworks](https://img.shields.io/badge/Frameworks-PyTorch%20%7C%20TensorFlow%20%7C%20scikit--learn%20%7C%20Keras%20%7C%20Flask%20%7C%20Streamlit-%23FF6F00?style=flat-square&labelFontSize=large)
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a Mechatronics and AI undergraduate student wi
 
 # Let's get in touch! 🤝
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://id.linkedin.com/in/ramadhirra-azzahra-putri-78b643252)](https://id.linkedin.com/in/ramadhirra-azzahra-putri-78b643252)
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ramadhirraazzahraputri)](https://medium.com/@ramadhirraazzahraputri)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ramadhirraazzahraputri@upi.edu)](mailto:ramadhirraazzahraputri@upi.edu)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-%2300B89D?style=flat-square&logo=hugging%20face&logoColor=white&link=https://huggingface.co/aridoverrun)](https://huggingface.co/aridoverrun)
