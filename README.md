@@ -1,6 +1,8 @@
 # Hi there, I'm Ramadhirra! 👋
 
-Welcome to my GitHub profile! I'm a Mechatronics and AI undergraduate student with a passion for AI, Cybersecurity, IoT and NLP. Let's connect and collaborate!
+Welcome to my GitHub profile! I'm an undergraduate student studying Mechatronics and AI, with a deep passion for AI, Cybersecurity, IoT, and NLP. In addition to my academic pursuits, I'm also a certified NLP specialist, allowing me to apply advanced language processing techniques to a variety of projects and challenges.
+
+I'm excited to connect and collaborate! Let's make something great together.
 
 💼 Proficient in the following technologies:
 
