@@ -32,6 +32,6 @@ I'm excited to connect and collaborate! Let's make something great together.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://id.linkedin.com/in/ramadhirra-azzahra-putri-78b643252)](https://id.linkedin.com/in/ramadhirra-azzahra-putri-78b643252)
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ramadhirraazzahraputri)](https://medium.com/@ramadhirraazzahraputri)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ramadhirraazzahraputri@upi.edu)](mailto:ramadhirraazzahraputri@upi.edu)
-[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-%2300B89D?style=flat-square&logo=hugging%20face&logoColor=white&link=https://huggingface.co/aridoverrun)](https://huggingface.co/aridoverrun)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-%2300B89D?style=flat-square&logo=hugging%20face&logoColor=white&link=https://huggingface.co/aridoverrun)](https://huggingface.co/rmdhirr)
 
 
